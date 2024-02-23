@@ -25,8 +25,6 @@ To utilize Keeper Notes on your local machine, follow these steps:
 Access Keeper Notes in your web browser at http://localhost:3000.
 Begin organizing your notes efficiently.
 
-### License
 
-This project is available under the MIT License. See the LICENSE file for more information.
 
-Thank you for using Keeper Notes! 📝✨
+**Thank you for using Keeper Notes! 📝✨**
